@@ -13,7 +13,7 @@ body {
 }
 
 .app-card {
-  width: 90%;
+  width: 80%;
   max-width: 330px; /* 好みで調整 */
   background-color: #e9f3f4;
   border-radius: 8px;
@@ -41,14 +41,6 @@ p {
 .download-btn {
   height: 40px;
 }
-
-/* .contact {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  margin: 40px 0;
-} */
 
 .email {
   color: #111;
