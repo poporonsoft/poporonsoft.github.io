@@ -1,0 +1,64 @@
+body {
+  font-family: 'Kiwi Maru', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo img {
+  width: 200px;
+  margin: 40px auto 30px;
+  display: block;
+}
+
+.app-card {
+  width: 330px;
+  background-color: #e9f3f4;
+  border-radius: 8px;
+  margin: 20px auto;
+  padding: 30px 20px;
+}
+
+.app-icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500; /* Kiwi Maru Medium */
+  margin: 10px 0 5px;
+}
+
+p {
+  font-size: 12px; /* Kiwi Maru Regular */
+  margin: 5px 0 15px;
+}
+
+.download-btn {
+  height: 40px;
+}
+
+.contact {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin: 40px 0;
+}
+
+.mail-icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 15px 0;
+  font-size: 12px;
+  margin-top: 30px;
+}
