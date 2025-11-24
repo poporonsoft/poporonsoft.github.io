@@ -13,7 +13,8 @@ body {
 }
 
 .app-card {
-  width: 330px;
+  width: 90%;
+  max-width: 330px; /* 好みで調整 */
   background-color: #e9f3f4;
   border-radius: 8px;
   margin: 20px auto;
